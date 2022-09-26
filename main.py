@@ -1,3 +1,4 @@
+#Troy Tural Gr:404
 def count_word(chaine):
     # Cette ligne va permettre au code de conter 1 mot chaque fois qu'ìl y a une espace vide dans la phrase
     return len(chaine.split(' '))
